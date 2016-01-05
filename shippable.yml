@@ -4,6 +4,7 @@ jdk:
    - oraclejdk7
    - openjdk7
 
+build_image: drydock/u12javall:tip
 services:
    - mysql
    
